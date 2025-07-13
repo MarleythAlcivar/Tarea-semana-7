@@ -1,0 +1,14 @@
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\Tarea semana 7\Resolución del problema de las Torres de Hanoi\bin\Debug\net9.0\Resolución del problema de las Torres de Hanoi.exe
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\Tarea semana 7\Resolución del problema de las Torres de Hanoi\bin\Debug\net9.0\Resolución del problema de las Torres de Hanoi.deps.json
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\Tarea semana 7\Resolución del problema de las Torres de Hanoi\bin\Debug\net9.0\Resolución del problema de las Torres de Hanoi.runtimeconfig.json
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\Tarea semana 7\Resolución del problema de las Torres de Hanoi\bin\Debug\net9.0\Resolución del problema de las Torres de Hanoi.dll
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\Tarea semana 7\Resolución del problema de las Torres de Hanoi\bin\Debug\net9.0\Resolución del problema de las Torres de Hanoi.pdb
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\Tarea semana 7\Resolución del problema de las Torres de Hanoi\obj\Debug\net9.0\Resolución del problema de las Torres de Hanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\Tarea semana 7\Resolución del problema de las Torres de Hanoi\obj\Debug\net9.0\Resolución del problema de las Torres de Hanoi.AssemblyInfoInputs.cache
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\Tarea semana 7\Resolución del problema de las Torres de Hanoi\obj\Debug\net9.0\Resolución del problema de las Torres de Hanoi.AssemblyInfo.cs
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\Tarea semana 7\Resolución del problema de las Torres de Hanoi\obj\Debug\net9.0\Resolución del problema de las Torres de Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\Tarea semana 7\Resolución del problema de las Torres de Hanoi\obj\Debug\net9.0\Resolución del problema de las Torres de Hanoi.dll
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\Tarea semana 7\Resolución del problema de las Torres de Hanoi\obj\Debug\net9.0\refint\Resolución del problema de las Torres de Hanoi.dll
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\Tarea semana 7\Resolución del problema de las Torres de Hanoi\obj\Debug\net9.0\Resolución del problema de las Torres de Hanoi.pdb
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\Tarea semana 7\Resolución del problema de las Torres de Hanoi\obj\Debug\net9.0\Resolución del problema de las Torres de Hanoi.genruntimeconfig.cache
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\Tarea semana 7\Resolución del problema de las Torres de Hanoi\obj\Debug\net9.0\ref\Resolución del problema de las Torres de Hanoi.dll

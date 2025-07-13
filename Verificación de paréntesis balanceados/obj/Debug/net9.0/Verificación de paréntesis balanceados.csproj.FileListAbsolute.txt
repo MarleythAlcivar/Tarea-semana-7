@@ -1,0 +1,14 @@
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\Tarea semana 7\Verificación de paréntesis balanceados\bin\Debug\net9.0\Verificación de paréntesis balanceados.exe
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\Tarea semana 7\Verificación de paréntesis balanceados\bin\Debug\net9.0\Verificación de paréntesis balanceados.deps.json
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\Tarea semana 7\Verificación de paréntesis balanceados\bin\Debug\net9.0\Verificación de paréntesis balanceados.runtimeconfig.json
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\Tarea semana 7\Verificación de paréntesis balanceados\bin\Debug\net9.0\Verificación de paréntesis balanceados.dll
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\Tarea semana 7\Verificación de paréntesis balanceados\bin\Debug\net9.0\Verificación de paréntesis balanceados.pdb
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\Tarea semana 7\Verificación de paréntesis balanceados\obj\Debug\net9.0\Verificación de paréntesis balanceados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\Tarea semana 7\Verificación de paréntesis balanceados\obj\Debug\net9.0\Verificación de paréntesis balanceados.AssemblyInfoInputs.cache
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\Tarea semana 7\Verificación de paréntesis balanceados\obj\Debug\net9.0\Verificación de paréntesis balanceados.AssemblyInfo.cs
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\Tarea semana 7\Verificación de paréntesis balanceados\obj\Debug\net9.0\Verificación de paréntesis balanceados.csproj.CoreCompileInputs.cache
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\Tarea semana 7\Verificación de paréntesis balanceados\obj\Debug\net9.0\Verificación de paréntesis balanceados.dll
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\Tarea semana 7\Verificación de paréntesis balanceados\obj\Debug\net9.0\refint\Verificación de paréntesis balanceados.dll
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\Tarea semana 7\Verificación de paréntesis balanceados\obj\Debug\net9.0\Verificación de paréntesis balanceados.pdb
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\Tarea semana 7\Verificación de paréntesis balanceados\obj\Debug\net9.0\Verificación de paréntesis balanceados.genruntimeconfig.cache
+C:\Users\marle\OneDrive - Universidad Estatal Amazónica\Documentos\Tarea semana 7\Verificación de paréntesis balanceados\obj\Debug\net9.0\ref\Verificación de paréntesis balanceados.dll
